@@ -7,7 +7,7 @@ const config = {
 		icon: '/qiang.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/chenyuqiang.jpg", // 头像
+	avatar: "/img/chenyuqiang.png", // 头像
 	welcometitle: "Hi, I'm ChenYuQiang", // 标题
 
 	// 颜色配置
